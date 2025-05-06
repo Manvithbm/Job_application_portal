@@ -1,7 +1,5 @@
 <h1 align="center" id="title">JobLane</h1>
 
-[![Hits](https://hits.sh/github.com/sujaltangde/JobLane.svg?color=116acc)](https://hits.sh/github.com/sujaltangde/JobLane/)
-
 <p id="description">Full Stack Job application portal built using MERN stack, Focusing on simplifying the job applications.</p>
 
 <h2>🚀 Demo</h2>
